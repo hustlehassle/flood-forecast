@@ -1,0 +1,268 @@
+<resources>
+    <string name="app_name">2D Bulusan Flood Forecasting</string>
+
+    <string-array name="array_zone">
+        <item>Select Zone</item>
+        <item>Zone 1</item>
+        <item>Zone 2</item>
+        <item>Zone 3</item>
+        <item>Zone 4</item>
+        <item>Zone 5</item>
+        <item>Zone 6</item>
+        <item>Zone 7</item>
+    </string-array>
+
+    <string-array name="array_duration">
+        <item>Select Duration</item>
+        <item>1 Hour</item>
+        <item>3 Hour</item>
+        <item>6 Hour</item>
+        <item>12 Hour</item>
+        <item>24 Hour</item>
+    </string-array>
+
+    <string-array name="select">
+        <item>Select Intensity</item>
+    </string-array>
+
+    <string name="light">
+        <b>ADVISORY (Community AWARENESS)</b>\n
+        Flooding is POSSIBLE in low-lying areas and near river channels.
+    </string>
+
+    <string name="moderate">
+        <b>ALERT (Community PREPAREDNESS)</b>\n
+        Flooding is THREATENING in low-lying areas and near river channels.
+    </string>
+
+    <string name="heavy">
+        <b>EMERGENCY (Community RESPONSE)</b>\n
+        SEVERE Flooding is EXPECTED. Take precautionary measures.
+    </string>
+
+    <string name="lightTitle">
+        <b>Light Rain</b>
+    </string>
+    <string name="moderateTitle">
+        <b>Moderate Rain</b>
+    </string>
+    <string name="heavyTitle">
+        <b>Heavy Rain</b>
+    </string>
+
+    <string name="infoLight">
+        -Individual drops easily identified and puddles(small muddy pools) form slowly.\n
+        -Small streams may flow in gutters.\n\n\n
+
+        Would you like to read the <b>Flood Safety Rules</b>?
+    </string>
+
+    <string name="infoModerate">
+        -Puddles rapidly forming and down pipes flowing freely.\n\n\n
+
+        Would you like to read the <b>Flood Safety Rules</b>?
+    </string>
+
+    <string name="infoHeavy">
+        -The sky is overcast, there is a continuous precipitation.\n
+        -Falls in sheets, misty spray over hard surfaces.\n
+        -May cause roaring noise on roofs.\n\n\n
+
+        Would you like to read the <b>Flood Safety Rules</b>?
+    </string>
+
+    <string name="zone1_info">
+        <b>Zone 1 Info:</b>\n
+        Houses: 50\n
+        Families: 53\n
+        Male: 122\n
+        Female: 160\n
+        Total Population: 282
+    </string>
+
+    <string name="zone2_info">
+        <b>Zone 2 Info:</b>\n
+        Houses: 54\n
+        Families: 54\n
+        Male: 115\n
+        Female: 116\n
+        Total Population: 231
+    </string>
+
+    <string name="zone3_info">
+        <b>Zone 3 Info:</b>\n
+        Houses: 69\n
+        Families: 71\n
+        Male: 175\n
+        Female: 160\n
+        Total Population: 335
+    </string>
+
+    <string name="zone4_info">
+        <b>Zone 4 Info:</b>\n
+        Houses: 60\n
+        Families: 64\n
+        Male: 175\n
+        Female: 155\n
+        Total Population: 330
+    </string>
+
+    <string name="zone5_info">
+        <b>Zone 5 Info:</b>\n
+        Houses: 49\n
+        Families: 54\n
+        Male: 123\n
+        Female: 128\n
+        Total Population: 251
+    </string>
+
+    <string name="zone6_info">
+        <b>Zone 6 Info:</b>\n
+        Houses: 94\n
+        Families: 97\n
+        Male: 275\n
+        Female: 273\n
+        Total Population: 548
+    </string>
+
+    <string name="zone7_info">
+        <b>Zone 7 Info:</b>\n
+        Houses: 63\n
+        Families: 67\n
+        Male: 173\n
+        Female: 143\n
+        Total Population: 316
+    </string>
+
+    <string-array name="one">
+        <item>Select Intensity</item>
+        <item>Light (2.5 mm/Hr)</item>
+        <item>Moderate (2.5–7.5 mm/Hr)</item>
+        <item>Heavy (>7.5 mm/Hr)</item>
+    </string-array>
+
+    <string-array name="three">
+        <item>Select Intensity</item>
+        <item>Light (7.5 mm/Hr)</item>
+        <item>Moderate (7.5–22.5 mm/Hr)</item>
+        <item>Heavy (>22.5 mm/Hr)</item>
+    </string-array>
+
+    <string-array name="six">
+        <item>Select Intensity</item>
+        <item>Light (15 mm/Hr)</item>
+        <item>Moderate (15–45 mm/Hr)</item>
+        <item>Heavy (>45 mm/Hr)</item>
+    </string-array>
+
+    <string-array name="twelve">
+        <item>Select Intensity</item>
+        <item>Light (30 mm/Hr)</item>
+        <item>Moderate (30–90 mm/Hr)</item>
+        <item>Heavy (>90 mm/Hr)</item>
+    </string-array>
+
+    <string-array name="twentyfour">
+        <item>Select Intensity</item>
+        <item>Light (60 mm/Hr)</item>
+        <item>Moderate (60–180 mm/Hr)</item>
+        <item>Heavy (>180 mm/Hr)</item>
+    </string-array>
+
+    <string name="flood_rules">
+        <text align="justify">
+        <b>BEFORE THE FLOOD:</b>\n\n
+
+        \u2022Find out how often your location is likely to be flooded.\n
+        \u2022Know the flood warning system in your community and be sure your family knows it.\n
+        \u2022Keep informed of daily weather condition.\n
+        \u2022Designate an evacuation area for the family and livestock.\n
+        \u2022Assign family members instructions and responsibilities according to an evacuation plan.\n
+        \u2022Keep a stock of food which requires little cooking and refrigeration; electric power may be interrupted.\n
+        \u2022Keep a transistorized radio and flashlight with spare batteries, emergency cooking equipment, candles, matches and first aid kit handy in case of emergency.\n
+        \u2022Store supplies and other household effects above expected flood water level.\n
+        \u2022Securely anchor weak dwellings and items.\n\n
+
+        <b>WHEN WARNED OF FLOOD:</b>\n\n
+
+        \u2022Watch for rapidly rising flood waters.Listen to your radio for emergency instructions.\n
+        \u2022If you find it necessary to evacuate, move to a safe area before access is cut off by flood waters.\n
+        \u2022Store drinking water in containers, water service may be interrupted.\n
+        \u2022Move household belongings to upper levels.\n
+        \u2022Get livestock to higher ground.\n
+        \u2022Turn off electricity at the main switch in the building before evacuating and also lock your house.\n\n
+
+        <b>DURING THE FLOOD:</b>\n\n
+
+        \u2022Avoid areas subject to sudden flooding.\n
+        \u2022Do not attempt to cross rivers of flowing streams where water is above the knee.\n
+        \u2022Beware of water-covered roads and bridges.Avoid unnecessary exposure to the elements.\n
+        \u2022Do not go swimming or boating in swollen rivers.Eat only well-cooked food. Protect leftovers against contamination.\n
+        \u2022Drink clean or preferably boiled water ONLY.\n\n
+
+        <b>AFTER THE FLOOD:</b>\n\n
+
+        \u2022Re-enter the dwellings with caution using flashlights, not lanterns or torchers. Flammables may be inside.\n
+        \u2022Be alert for fire hazards like broken wires.\n
+        \u2022Do not eat food and drink water until they have been checked for flood water contamination.\n
+        \u2022Report broken utility lines(electricity, water, gas and telephone) to appropriate agencies authorities.\n
+        \u2022Do not turn on the main switch or use appliances and other equipment until they have been checked by a competent electrician.\n
+        \u2022Consult health authorities for immunization requirements.\n
+        \u2022Do not go in disaster areas. Your presence might hamper rescue and other emergency operations.\n\n
+
+        Flood are aggravated by factors resulting from the carelessness and indifference of people usually before floods occur.\n\n
+
+        <b>THINGS ONE CAN DO TO MITIGATE FLOODS:</b>\n\n
+
+        \u2022Regulate cutting of trees.\n
+        \u2022Report illegal loggers and kaingeros.\n
+        \u2022Report illegal construction of fishponds and other establishments in waterways.\n
+        \u2022Do not throw garbage in esteros and rivers.Help clean the neighborhood.\n
+        \u2022Support community activities intended to lessen the occurrence of floods.\n
+        \u2022Avoid throwing anything like plastic wrappers anywhere which may clog or block the drainage system.\n
+        </text>
+        </string>
+
+    <string name="instructions">
+        <b>Here are the basic steps in using the app:</b>\n\n
+        1. First, search for a zone.\n\n
+        2. Then, set the Duration of the rain.\n\n
+        3. Different mm/Hr will be displayed for each Intensity depending on the Duration selected. Select one.\n\n
+        4.  After that, click the START button to show result.\n\n
+        5. A pop-up will show containing a warning message with a background color corresponding for the Intensity of rain: <b>Yellow</b> for Light, <b>Orange</b> for Moderate, and <b>Red</b> for Heavy.\n\n
+        6. Along with the warning message is a dialog box that describes the Intensity selected, with an option to read the Flood Safety Rules containing the Do\'s and Don\'ts before, during and after a flood.\n\n
+    </string>
+
+    <string name="about">
+        <b><font size="20">About the Developers</font></b>\n\n
+        <b>Programmer:</b>\u0020John Mari Ocampo\n\n
+        <b>Analyst:</b>\u0020Khristine N. Vibar\n\n
+        <b>Project Manager:</b>\u0020Bernard Joseph N. Mier\n\n
+        <b>Testing:</b>\u0020Loren Bucad\n\n
+
+        <b><font size="20">About this App</font></b>\n\n
+        <b>THIS APP IS DESIGNED FOR THE RESIDENTS OF BRGY. BULUSAN ONLY.</b>\n\n
+        The purpose of this app is to help the residents of Brgy. Bulusan forecast a flood by searching for their house and providing rain information such as duration and intensity.\n\n
+
+        <b><font size="20">History of Bulusan</font></b>\n\n
+        Nagkaroon ng pagkakakilanlan ang Barangay na ito bilang daluyan o "bubulusan" ng baha na nanggagaling sa kabundukan ng Brgy. San Jose sa
+        dakong timog at Brgy. Bacolod Quimba River sa bandang silangan. Natatabunan ng makakapal na atalahib ang malawak nitong kapatagan na siyang pinamumugaran
+        ng baboy ramo at iba pang ligaw na hayop. Bago pumasok ang ika-20 siglo, naging hanapbuhay ng mga tagarito and pangingisda tuwing tag-ulan at pangangaso
+        naman kung tag-init.\n\n
+
+        Sa pag-unlad ng sibilisasyon pinalitang ng "Bulusan" ang pangalan nitong "bubulusan". Idinirekta din itong "indipendente" bilang bagong Barangay
+        noong 1920 at nahirang na cabeza de Barangay nung kapanahunan ni Mariano Sario. Pinagtulungan din ng mga tao na itayo ang simbahan ng Sta. Cruz
+        Patron ng Barangay noong ika-3 ng Mayo, kung saan ipinagdiriwang ang kapistahan ng Sta. Cruz. Sumunod na hinirang na cabeza de Barangay si Loriano Bron.
+        Sa nasabing posisyon ng Sta. Cruz pinag-yaman ng mga tao ang kanilang paniniwala sa pamamagitan ng makulay na Dta. Cruz taong 1943 sa pamamahala ni Flora
+        Bron at Jacinto Cerdena. Naging tradisyonal na ito sa mahabang panahon. Di naglaon pinamunuan din ang Barangay na ito ng anim na tiniente del barrio.\n\n
+
+
+        <b><font size="20">Learn more</font></b>\n\n
+        About Bulusan:\n<a href="https://en.wikipedia.org/wiki/Libon,_Albay">https://en.wikipedia.org/wiki/Libon,_Albay</a>\n\n
+        Pag-asa Official Twitter (@dost_pagasa):\n<a href="https://twitter.com/dost_pagasa?lang=en">https://twitter.com/dost_pagasa?lang=en</a>\n\n
+        Pag-asa Official Facebook Page:\n<a href="https://www.facebook.com/PAGASA.DOST.GOV.PH/">https://www.facebook.com/PAGASA.DOST.GOV.PH/</a>\n\n
+        Pag-asa Official Website:\n<a href="https://www1.pagasa.dost.gov.ph">https://www1.pagasa.dost.gov.ph</a>\n
+    </string>
+
+
+</resources>
